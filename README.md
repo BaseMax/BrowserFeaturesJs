@@ -4,7 +4,7 @@ Tiny Library for browser features detection.
 
 
 # How Works?
-open `Demo.html` file on a browser.
+open `Example.html` file on a browser.
 it's a demo file.
 
 # How to Use?
@@ -37,7 +37,7 @@ list of variables :
 - More...
 
 
-# Demo :
+# Example :
     <script type="text/javascript" src="TinyFeature.js"></script>
     <script type="text/javascript">
     window.addEventListener("load",function()
@@ -59,7 +59,7 @@ list of variables :
     });
     </script>
 
-# Output of Demo :
+# Output of Example :
 
     FunctionGenerator : true
     FunctionAsync : true
@@ -76,5 +76,10 @@ list of variables :
     Touch : false
     WebGL : true
 
+*The output may be specific to different browsers and systems.*
 
 
+
+# License
+
+BrowserFeatures is licensed under the [GNU General Public License](https://github.com/BaseMax/BrowserFeatures/blob/master/LICENSE).
