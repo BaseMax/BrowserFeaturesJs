@@ -38,7 +38,7 @@ list of variables :
 
 
 # Example :
-    <script type="text/javascript" src="TinyFeature.js"></script>
+    <script type="text/javascript" src="BrowserFeatures.min.js"></script>
     <script type="text/javascript">
     window.addEventListener("load",function()
     {
