@@ -90,4 +90,4 @@ list of variables :
 
 # License
 
-BrowserFeatures is licensed under the [GNU General Public License](https://github.com/BaseMax/BrowserFeatures/blob/master/LICENSE).
+BrowserFeatures is licensed under the [GNU General Public License](https://github.com/BaseMax/BrowserFeaturesJs/blob/master/LICENSE).
