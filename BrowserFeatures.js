@@ -4,8 +4,8 @@
 * @Version : 1.0
 * @Programmer : Max
 * @Date : 2018-05-19
-* @Released under : https://github.com/BaseMax/BrowserFeatures/blob/master/LICENSE
-* @Repository : https://github.com/BaseMax/BrowserFeatures
+* @Released under : https://github.com/BaseMax/BrowserFeaturesJs/blob/master/LICENSE
+* @Repository : https://github.com/BaseMax/BrowserFeaturesJs
 *
 **/
 ;(function(window,document)
