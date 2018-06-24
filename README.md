@@ -12,22 +12,28 @@ you can access to result of detect and check from variable.
 
 type of all variable is `bool`.
 
-list of variables : 
+| list of variables  | Goal |
+| ------------- | ------------- |
+| browser.function_generator |  |
+|  browser.function_async |  |
+|  browser.function_generator_async |  |
+|  browser.event_target |  |
+|  browser.data_transfer_item |  |
+| browser.data_transfer_item_list |  |
+|  browser.broad_cast_channel|  |
+|  browser.viewport|  |
+| browser.font |  |
+|  browser.custom_element|  |
+|  browser.animate|  |
+| browser.svg |  |
+| browser.touch |  |
+| browser.webgl |  |
 
-- browser.function_generator
-- browser.function_async
-- browser.function_generator_async
-- browser.event_target
-- browser.data_transfer_item 
-- browser.data_transfer_item_list
-- browser.broad_cast_channel
-- browser.viewport
-- browser.font
-- browser.custom_element
-- browser.animate
-- browser.svg
-- browser.touch
-- browser.webgl
+
+
+
+
+
 
 
 # Future capabilities :
