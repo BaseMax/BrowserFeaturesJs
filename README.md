@@ -12,7 +12,9 @@ you can access to result of detect and check from variable.
 
 type of all variable is `bool`.
 
-| list of variables  | Goal |
+list of variables :
+
+| Variables  | Goal |
 | ------------- | ------------- |
 | browser.function_generator |  |
 |  browser.function_async |  |
