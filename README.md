@@ -2,10 +2,14 @@
 Tiny Library for browser features detection.
 
 
+![ChangeNumbers.min.js File Size](https://img.shields.io/badge/Compressed%20Size-1.2%20KB-blue.svg) ![ChangeNumbers.min.js Validation Code](https://img.shields.io/badge/Validation%20Code-Check-green.svg)
 
-# How Works?
-open `Example.html` file on a browser.
-it's a demo file.
+
+## Features 
+  - Easy
+  - Compact
+  - No dependencies
+  
 
 # How to Use?
 you can access to result of detect and check from variable.
@@ -32,18 +36,8 @@ list of variables :
 | browser.webgl |  |
 
 
-
-
-
-
-
-
-# Future capabilities :
-- placeholder
-- canvas
-- querySelectorAll
-- More...
-
+## Samples
+To view the full details, run the [Example.html](https://github.com/BaseMax/BrowserFeaturesJs/blob/master/Example.html) file.
 
 # Example :
     <script type="text/javascript" src="BrowserFeatures.min.js"></script>
